@@ -1,0 +1,42 @@
+.fa{
+	color: white;
+	margin: auto;
+}
+.main{
+	margin-top: 150px;
+}
+.about-me{
+	position: absolute;
+	right: 15px;
+	bottom: 10px;
+}
+ul{
+	width: 356px;
+	margin: auto;
+}
+ul li{
+	cursor: pointer;
+	display: flex;
+	float: left;
+	list-style-type: none;
+	width:100px;
+	height: 100px;
+	background-color: #121212;
+	border:1px solid #afafaf;
+}
+.results{
+	text-align: center;
+	padding: 15px;
+	margin-top: 30px;
+	display: none;
+	clear: both;
+}
+.results button{
+	cursor: pointer;
+	width: 100px;
+	height: 35px;
+	color: white;
+	background-color: #2d8be8;
+	border: 1px solid #0b5daf;
+	border-radius: 3px;
+}
